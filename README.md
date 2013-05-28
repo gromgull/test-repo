@@ -1,4 +1,4 @@
 test-repo
 =========
 
-This is oh so great a test!
+This is so great a test!
